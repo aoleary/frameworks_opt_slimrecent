@@ -103,7 +103,7 @@ import com.android.systemui.statusbar.phone.StatusBar;
 
 import static com.android.systemui.statusbar.phone.StatusBar.SYSTEM_DIALOG_REASON_RECENT_APPS;
 
-import com.android.internal.util.bootleggers.slimrecents.ImageHelper;
+import com.android.internal.util.aosip.slimrecents.ImageHelper;
 
 /**
  * Our main recents controller.

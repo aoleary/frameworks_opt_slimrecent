@@ -48,7 +48,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Random;
 
-import com.android.internal.util.bootleggers.slimrecents.AbstractIconsHandler;
+import com.android.internal.util.aosip.slimrecents.AbstractIconsHandler;
 
 public class IconsHandler implements AbstractIconsHandler {
 
